@@ -6,7 +6,7 @@ function digitRev(num){
     console.log(newNum)
 }
 
-//some senarios 
+//some scenarios 
 
 digitRev(123456789)
 digitRev(987654321)
