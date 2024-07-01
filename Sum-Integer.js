@@ -12,4 +12,4 @@ function sumInteger(arr){
 }
 
 console.log(sumInteger([1,3,4,5,6,-5]))
-//dddss
+
