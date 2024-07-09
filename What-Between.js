@@ -7,6 +7,7 @@ function betweenFun(a,b){
 
 console.log(betweenFun(2,6))
 
+  
 
 
 
