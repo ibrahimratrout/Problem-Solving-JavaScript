@@ -15,4 +15,5 @@ function removeDup(arr){
     return set
 }
 
+
 console.log(removeDup([1,1,2,4,5,6,6,6,6,2]))
